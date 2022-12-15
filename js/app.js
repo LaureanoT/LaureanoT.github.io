@@ -167,4 +167,3 @@ fetch('http://api.weatherapi.com/v1/current.json?key=34ad4a77de0f4c9082f12173522
 	.then(response => console.log(response))
 	.catch(err => console.error(err));
 
-  //ea
